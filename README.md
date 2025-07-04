@@ -25,6 +25,10 @@ A synthetic dataset of 100,000 patient records is used to simulate real-world da
 - Scikit-learn
 - Joblib
 
+# Model Download
+The trained model file is hosted externally due to file size limits on GitHub.
+🔗 Download heart_disease_model.pkl from Google Drive  (https://drive.google.com/uc?export=download&id=1A2B3C4D5E6F7G8H9I)
+
 # How to Run the Project
 1. Clone or download this repository.
 2. Install the required libraries using:
